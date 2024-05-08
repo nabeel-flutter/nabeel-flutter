@@ -1,26 +1,78 @@
-👋 Hi, I'm Nabeel! Welcome to my GitHub profile.
+# 👋 Hi, I'm Muhammad Nabeel!
 
-👨‍💻 I'm a mobile application developer with a focus on Flutter.
+Welcome to my GitHub profile.
 
-📱 I specialize in building cross-platform mobile apps for both iOS and Android.
+## 👨‍💻 About Me
 
-🔧 My toolkit includes:
-- Flutter for building beautiful and fast user interfaces.
-- Dart for writing clean and efficient code.
-- Firebase for backend services and cloud storage.
-- Git for version control and collaboration.
+I'm a Senior Software Engineer with over 5 years of experience in Flutter, Kotlin, Swift, and web development. I specialize in mobile application development, focusing on creating delightful user experiences using Flutter for both iOS and Android platforms.
 
-🌱 Currently, I'm sharpening my skills in iOS development to complement my expertise in Flutter.
+## 🛠️ Technologies & Tools
 
-🚀 I'm enthusiastic about collaborating on Flutter projects and contributing to the Flutter community.
+- **Languages/Tools/Technologies**: Visual Studio Code, Android Studio, Postman, Xcode, Emulator, Simulator, Dart, Flutter, JSON, Firebase, Google Maps, RESTful APIs, iOS, Android.
+- **Version Control**: Git, Bitbucket, GitLab.
+- **Operating Systems**: MacBook Pro, Ubuntu.
+- **Database/Webservers**: Firebase, MongoDB, NodeJS/ExpressJS.
 
-📫 Feel free to reach out to me at [nabeelshakeel966@gmail.com](mailto:nabeelshakeel966@gmail.com) for any collaboration opportunities or just to connect!
+## 🌱 Currently Learning
 
-🌐 Connect with me:
-- [LinkedIn](https://www.linkedin.com/in/nabeel-flutter/)
-- [Twitter](https://twitter.com/nabeel_flutter)
+I'm continuously expanding my knowledge in iOS development and exploring advanced topics in Flutter, such as state management patterns and performance optimization techniques.
 
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+## 💼 Professional Experience
+
+### The Atria Technology Private LTD.
+
+- **Mobile Application Developer / Team Lead / Scrum Master** (2023 – Present)
+  Responsibilities:
+  - Developed diverse mobile applications suiting different business domains.
+  - Created complex solutions to fit client and business requirements.
+  - Led the development, code merge, and deployment processes.
+  - Collaborated with cross-functional teams to deliver high-quality products.
+
+### Freelancer
+
+- **Manager App Engineer** (2020– Present)
+  Applications:
+  - **Daily2you (Flutter)**: Online shopping platform.
+    [Play Store](https://play.google.com/store/apps/details?id=com.daily2you.customer)
+  - **Pakistan Cardiac Society (Flutter)**: Health advocacy platform.
+    [Play Store](https://play.google.com/store/apps/details?id=com.getz_pharma.pcs)
+  - **IRF (Flutter)**: Respiratory health advocacy platform.
+    [Play Store](https://play.google.com/store/apps/details?id=com.getz_pharma.irf)
+  - **Zooba Foods (Flutter)**: Food delivery app for users in Kuwait.
+    [Play Store](https://play.google.com/store/apps/details?id=com.midwaretech.zooba)
+  - **Zooba Rider (Flutter)**: Food delivery network app for delivery personnel.
+    [Play Store](https://play.google.com/store/apps/details?id=com.midwaretech.zoob_rider_android)
+
+### Meri Sehat
+
+- **Manager App Engineer** (2022 – 2023)
+  Applications:
+  - **Meri Sehat (Flutter)**: Healthcare platform app in Pakistan.
+    [App Store](https://apps.apple.com/us/app/meri-sehat/id1643174046)
+    [Play Store](https://play.google.com/store/apps/details?id=pk.merisehat.app&pli=1)
+  - **NAIC (Flutter)**: Cardiac care platform app for patients in Pakistan.
+    [Play Store](https://play.google.com/store/apps/details?id=com.getz_pharma.nicvd)
+
+### Cubix
+
+- **Full Stack Developer / MERN Stack Developer** (2022 – 2022)
+  Applications:
+  - **Wagmi (MERN Stack)**: Web3 transmedia entertainment franchise.
+    [Website](https://www.wagmigame.io/en)
+  - **Party Shark (Mern Stack)**: Party organization and discovery app.
+    [Website](https://www.partyshark.com/)
+
+### Radium Technology
+
+- **Flutter Engineer** (2021 – 2022)
+  Applications:
+  - **Lets Go Knock (Flutter)**: Sales and leads tracking app for teams.
+    [Play Store](https://play.google.com/store/apps/details?id=com.doortodoor.doorknocker.android)
+
+## 📫 Get in Touch
+
+- **Email**: [nabeelshakeel966@gmail.com](mailto:nabeelshakeel966@gmail.com)
+- **LinkedIn**: [Muhammad Nabeel](https://www.linkedin.com/in/nabeel-flutter/)
+- **GitHub**: [nabeel-flutter](https://github.com/nabeel-flutter) | [nabeel-khanjee](https://github.com/nabeel-khanjee) | [nabeel-khanji](https://github.com/nabeel-khanji)
+- **Portfolio**: [Nabeel's Portfolio](https://read.cv/nabeelkhanjee)
+
