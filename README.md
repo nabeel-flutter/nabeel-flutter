@@ -10,7 +10,7 @@ I'm a Senior Software Engineer with over 5 years of experience in Flutter, Kotli
 
 - **Languages/Tools/Technologies**: Visual Studio Code, Android Studio, Postman, Xcode, Emulator, Simulator, Dart, Flutter, JSON, Firebase, Google Maps, RESTful APIs, iOS, Android.
 - **Version Control**: Git, Bitbucket, GitLab.
-- **Operating Systems**: MacBook Pro, Ubuntu.
+- **Operating Systems**: Macos, Linux and Windows.
 - **Database/Webservers**: Firebase, MongoDB, NodeJS/ExpressJS.
 
 ## 🌱 Currently Learning
