@@ -1,4 +1,3 @@
-Here's the updated CV with the addition of Green Clinic in the Meri Sehat experience:
 
 ---
 
