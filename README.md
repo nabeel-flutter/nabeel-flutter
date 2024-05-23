@@ -82,9 +82,7 @@ I'm continuously expanding my knowledge in iOS development and exploring advance
   - ![Play Store](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white) [Meri Sehat](https://play.google.com/store/apps/details?id=pk.merisehat.app&pli=1)
   - ![Play Store](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white) [NAIC](https://play.google.com/store/apps/details?id=com.getz_pharma.nicvd)
   - ![App Store](https://img.shields.io/badge/App_Store-414141?style=flat&logo=apple&logoColor=white) [NAIC](https://apps.apple.com/ph/app/nicvd-app/id1662095265)
-  - ![Play Store](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white) [Green Clinic](https://play.google.com/store/apps/details?id=pk.greenclinic.app&
-
-hl=en_CA&gl=US)
+  - ![Play Store](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white) [Green Clinic](https://play.google.com/store/apps/details?id=pk.greenclinic.app&hl=en_CA&gl=US)
   - ![App Store](https://img.shields.io/badge/App_Store-414141?style=flat&logo=apple&logoColor=white) [Green Clinic](https://apps.apple.com/ph/app/green-clinic-philippines/id1524429532)
 
 ### Cubix
