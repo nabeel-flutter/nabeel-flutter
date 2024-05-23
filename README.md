@@ -1,4 +1,3 @@
-
 ---
 
 # Muhammad Nabeel
@@ -65,38 +64,40 @@ I'm continuously expanding my knowledge in iOS development and exploring advance
 ### Freelancer
 **Manager App Engineer** (2020 – Present)
 - Developed several applications including Daily2you, Pakistan Cardiac Society, IRF, Zooba Foods, and Zooba Rider using Flutter.
-  - **Daily2you** 
-    ![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=apple&logoColor=white) ![Play Store](https://img.shields.io/badge/Google_Play-4CAF50?style=for-the-badge&logo=google-play&logoColor=white)
-  - **Pakistan Cardiac Society** 
-    ![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=apple&logoColor=white) ![Play Store](https://img.shields.io/badge/Google_Play-4CAF50?style=for-the-badge&logo=google-play&logoColor=white)
-  - **IRF** 
-    ![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=apple&logoColor=white) ![Play Store](https://img.shields.io/badge/Google_Play-4CAF50?style=for-the-badge&logo=google-play&logoColor=white)
-  - **Zooba Foods** 
-    ![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=apple&logoColor=white) ![Play Store](https://img.shields.io/badge/Google_Play-4CAF50?style=for-the-badge&logo=google-play&logoColor=white)
-  - **Zooba Rider** 
-    ![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=apple&logoColor=white) ![Play Store](https://img.shields.io/badge/Google_Play-4CAF50?style=for-the-badge&logo=google-play&logoColor=white)
+  - ![Play Store](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white) [Daily2you](https://play.google.com/store/apps/details?id=com.daily2you.customer)
+  - ![App Store](https://img.shields.io/badge/App_Store-414141?style=flat&logo=apple&logoColor=white) [Daily2you](https://apps.apple.com/pk/app/daily2you-partner/id1611292873)
+  - ![Play Store](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white) [Pakistan Cardiac Society](https://play.google.com/store/apps/details?id=com.getz_pharma.pcs)
+  - ![App Store](https://img.shields.io/badge/App_Store-414141?style=flat&logo=apple&logoColor=white) [Pakistan Cardiac Society](https://apps.apple.com/ph/app/pakistan-cardiac-society/id6444396092)
+  - ![Play Store](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white) [IRF](https://play.google.com/store/apps/details?id=com.getz_pharma.irf)
+  - ![App Store](https://img.shields.io/badge/App_Store-414141?style=flat&logo=apple&logoColor=white) [IRF](https://apps.apple.com/ph/app/respiratory-forum/id6446242920)
+  - ![Play Store](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white) [Zooba Foods](https://play.google.com/store/apps/details?id=com.midwaretech.zooba)
+  - ![App Store](https://img.shields.io/badge/App_Store-414141?style=flat&logo=apple&logoColor=white) [Zooba Foods](https://apps.apple.com/pk/app/zooba-foods/id6443798583)
+  - ![Play Store](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white) [Zooba Rider](https://play.google.com/store/apps/details?id=com.midwaretech.zoob_rider_android)
+  - ![App Store](https://img.shields.io/badge/App_Store-414141?style=flat&logo=apple&logoColor=white) [Zooba Rider](https://apps.apple.com/pk/app/zooba-rider-app/id6444166324)
 
 ### Meri Sehat
 **Manager App Engineer** (2022 – 2023)
 - Developed Meri Sehat, NAIC, and Green Clinic applications using Flutter.
-  - **Meri Sehat** 
-    ![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=apple&logoColor=white) ![Play Store](https://img.shields.io/badge/Google_Play-4CAF50?style=for-the-badge&logo=google-play&logoColor=white)
-  - **NAIC** 
-    ![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=apple&logoColor=white) ![Play Store](https://img.shields.io/badge/Google_Play-4CAF50?style=for-the-badge&logo=google-play&logoColor=white)
-  - **Green Clinic** 
-    ![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=apple&logoColor=white) ![Play Store](https://img.shields.io/badge/Google_Play-4CAF50?style=for-the-badge&logo=google-play&logoColor=white)
+  - ![App Store](https://img.shields.io/badge/App_Store-414141?style=flat&logo=apple&logoColor=white) [Meri Sehat](https://apps.apple.com/us/app/meri-sehat/id1643174046)
+  - ![Play Store](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white) [Meri Sehat](https://play.google.com/store/apps/details?id=pk.merisehat.app&pli=1)
+  - ![Play Store](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white) [NAIC](https://play.google.com/store/apps/details?id=com.getz_pharma.nicvd)
+  - ![App Store](https://img.shields.io/badge/App_Store-414141?style=flat&logo=apple&logoColor=white) [NAIC](https://apps.apple.com/ph/app/nicvd-app/id1662095265)
+  - ![Play Store](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white) [Green Clinic](https://play.google.com/store/apps/details?id=pk.greenclinic.app&
+
+hl=en_CA&gl=US)
+  - ![App Store](https://img.shields.io/badge/App_Store-414141?style=flat&logo=apple&logoColor=white) [Green Clinic](https://apps.apple.com/ph/app/green-clinic-philippines/id1524429532)
 
 ### Cubix
 **Full Stack Developer / MERN Stack Developer** (2022 – 2022)
-- Developed [Wagmi](https://www.wagmigame.io/en) and [Party Shark](https://www.partyshark.com) applications using MERN Stack.
-  - **Wagmi** ![Website](https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=google-chrome&logoColor=white)
-  - **Party Shark** ![Website](https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=google-chrome&logoColor=white)
+- Developed Wagmi and Party Shark applications using MERN Stack.
+  - [Wagmi Website](https://www.wagmigame.io/en)
+  - [Party Shark Website](https://www.partyshark.com/)
 
 ### Radium Technology
 **Flutter Engineer** (2021 – 2022)
 - Developed Lets Go Knock application using Flutter.
-  - **Lets Go Knock** 
-    ![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=apple&logoColor=white) ![Play Store](https://img.shields.io/badge/Google_Play-4CAF50?style=for-the-badge&logo=google-play&logoColor=white)
+  - ![Play Store](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white) [Lets Go Knock](https://play.google.com/store/apps/details?id=com.doortodoor.doorknocker.android)
+  - ![App Store](https://img.shields.io/badge/App_Store-414141?style=flat&logo=apple&logoColor=white) [Lets Go Knock](https://apps.apple.com/us/app/lets-go-knock/id1596423708)
 
 ---
 
