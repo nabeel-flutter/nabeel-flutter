@@ -3,7 +3,7 @@
 # Muhammad Nabeel
 📧 **Email:** [nabeelshakeel966@gmail.com](mailto:nabeelshakeel966@gmail.com)  
 🔗 **LinkedIn:** [Muhammad Nabeel](https://www.linkedin.com/in/nabeel-flutter/)  
-🔗 **Other GitHub:** [nabeel-khanjee](https://github.com/nabeel-khanjee) | [nabeel-khanji](https://github.com/nabeel-khanji)  
+🔗 **Other GitHub:** [nabeel-khanjee (2020-2024)](https://github.com/nabeel-khanjee) | [nabeel-khanji (2022-2022)](https://github.com/nabeel-khanji)  
 🔗 **Portfolio:** [Nabeel's Portfolio](https://read.cv/nabeelkhanjee)
 
 ---
