@@ -54,8 +54,12 @@ I'm continuously expanding my knowledge in iOS development and exploring advance
 
 ## 💼 Professional Experience
 
+### Cognitive IT Solutions.
+**Mobile Application Developer** (2024 – Present)
+- Build Hybrid Mobile Applications
+
 ### The Atria Technology Private LTD.
-**Mobile Application Developer / Team Lead / Scrum Master** (2023 – Present)
+**Mobile Application Developer / Team Lead / Scrum Master** (2023 – 2024)
 - Developed diverse mobile applications suiting different business domains.
 - Created complex solutions to fit client and business requirements.
 - Led the development, code merge, and deployment processes.
