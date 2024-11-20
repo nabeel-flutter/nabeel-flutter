@@ -1,5 +1,5 @@
 ---
-# **🔗 Other GitHub Links:   [nabeel-khanjee (2020-2024)](https://github.com/nabeel-khanjee) | [nabeel-khanji (2022-2022)](https://github.com/nabeel-khanji)**
+# 🌟 **🔗 Other GitHub Links:   [nabeel-khanjee (2020-2024)](https://github.com/nabeel-khanjee) | [nabeel-khanji (2022-2022)](https://github.com/nabeel-khanji)** ✨
 ---
 
 # Muhammad Nabeel 
