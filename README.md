@@ -1,5 +1,5 @@
 ---
-# **🔗 Other GitHub Links:   [nabeel-khanjee (2020-2024)](https://github.com/nabeel-khanjee) | [nabeel-khanji (2022-2022)](https://github.com/nabeel-khanji)**
+<h1>🔗 Other GitHub Links: <a href="https://github.com/nabeel-khanjee">nabeel-khanjee (2020-2024)</a> | <a href="https://github.com/nabeel-khanji">nabeel-khanji (2022-2022)</a></h1>
 # Muhammad Nabeel 
 📧 **Email:** [nabeelshakeel966@gmail.com](mailto:nabeelshakeel966@gmail.com)  
 🔗 **LinkedIn:** [Muhammad Nabeel](https://www.linkedin.com/in/nabeel-flutter/)  
