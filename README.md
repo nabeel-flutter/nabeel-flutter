@@ -55,6 +55,7 @@ I'm continuously expanding my knowledge in iOS development and exploring advance
 ### Cognitive IT Solutions.
 **Mobile Application Developer** (2024 – Present)
 - Build Hybrid Mobile Applications
+- ![Play Store](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white) [E Finder](https://play.google.com/store/apps/details?id=com.cognative.e_finder)
 
 ### The Atria Technology Private LTD.
 **Mobile Application Developer / Team Lead / Scrum Master** (2023 – 2024)
